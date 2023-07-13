@@ -13,7 +13,9 @@ Tecnologias usadas para esto:
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" height="30" width="100"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" height="30" width="100"/>
 </div>
-
+<hr/>
+<h3> Link </h3>
+<strong>https://journal-app-vite.netlify.app/</strong>
 <hr/>
 <h3> Stack completo </h3>
 <ul>
